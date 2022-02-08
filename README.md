@@ -35,6 +35,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [Service Now](https://www.servicenow.com/) - Build and run applications with advanced features like ai.
 - [Thinkwise](https://www.thinkwisesoftware.com/) - Lowcode Platform for core systems.
 - [VisionX](https://visionx.sibvisions.com/) - Lowcode Development Platform.
+- [Radzen](https://https://www.radzen.com/) - Enterprise ready Lowcode Development Platform based on Dotnet 6 for backend, with 3 frontend choice: Blazor Serverside, Blazor WebAssembly, and Angular. Free Community License available.
 
 ## Automation and Workflows
 
