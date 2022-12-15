@@ -28,6 +28,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 ## Enterprise Platforms
 
 - [Appian](https://www.appian.com/) - Full-Stack automation and data from everywhere. A lowcode platform, fast and simple.  
+- [Bryter](https://bryter.com) - The No-Code Enterprise Platform.
 - [Mendix](https://www.mendix.com/) - Lowcode application development platform leader in rapidly building, deploying, and operating enterprise-grade applications.
 - [Nintex](https://www.nintex.de/) - Enterprise ready, easy-to-use, powerful & complete process platform.
 - [Outsystems](https://www.outsystems.com/) - Extraordinarily fast, visual, model-driven development meets AI, cloud, and DevOps.
@@ -40,6 +41,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 ## Automation and Workflows
 
 - [Automate.io](https://automate.io/) - Connect your cloud applications and automate marketing, sales and business processes.
+- [Cronit](https://cronit.app) - Online cron jobs scheduling 
 - [Camunda](https://camunda.com/) - Workflow and decision automation.
 - [Decisions](https://decisions.com/) - Automate Everything.
 - [FlowForma](https://www.flowforma.com/) - Empower business people to digitize processes in-house, with a digital process automation tool trusted by IT.
@@ -178,6 +180,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [Fritz.ai](https://www.fritz.ai/) - ML platform for iOS, Android, and SnapML in Lens Studio.
 - [Google Cloud AutoML](https://cloud.google.com/automl) - Training of high-quality custom machine learning models with minimal effort and machine learning expertise.
 - [Google Cloud ML Kit](https://developers.google.com/ml-kit) - Mobile software development kit that brings machine learning expertise to Android and iOS apps.
+- [Liner.ai](https://liner.ai/) - Train deep learning models on your computer without Code.
 - [MakeML](https://makeml.app/) - Create Object Detection and Segmentation ML models without Code.
 - [Microsoft Azure Automated ML](https://azure.microsoft.com/en-us/services/machine-learning/automatedml/) - Automatically build machine learning models with speed and scale.
 - [Obviously AI](https://www.obviously.ai/) - Machine learning tool that makes data science effortless by enabling anyone to instantly run accurate predictions as well as analytics on their data by asking questions in natural language.
